@@ -36,8 +36,8 @@ This project demonstrates the design flow of an analog CMOS circuit, including t
 The designed differential amplifier was verified through Cadence Spectre simulations, showing proper differential amplification behavior and frequency response.
 
 ## Repository Contents
-├── Schematic/
-├── Symbol/
-├── Layout/
-├── Simulation Results/
-└── Images/
+── Schematic
+── Symbol
+── Layout
+── Simulation Results
+── Images
